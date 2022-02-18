@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Agente-Medico/static/css/main.a03103e9.css",
+    "main.js": "/Agente-Medico/static/js/main.f45dc4c1.js",
+    "static/js/787.bdda52e4.chunk.js": "/Agente-Medico/static/js/787.bdda52e4.chunk.js",
+    "static/media/bg.gif": "/Agente-Medico/static/media/bg.69c1bfab58ab4df57548.gif",
+    "index.html": "/Agente-Medico/index.html",
+    "main.a03103e9.css.map": "/Agente-Medico/static/css/main.a03103e9.css.map",
+    "main.f45dc4c1.js.map": "/Agente-Medico/static/js/main.f45dc4c1.js.map",
+    "787.bdda52e4.chunk.js.map": "/Agente-Medico/static/js/787.bdda52e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03103e9.css",
+    "static/js/main.f45dc4c1.js"
+  ]
+}
