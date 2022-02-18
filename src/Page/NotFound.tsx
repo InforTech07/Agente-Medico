@@ -6,9 +6,9 @@ export default function NotFound() {
     <div>
       <h2>Not Found 404</h2>
       <h3>Ingrese un nombre valido</h3>
-      <a className='btn-init'>
+      <li className='btn-init'>
         <NavLink to={`/`}>Regresar</NavLink>
-      </a>
+      </li>
     </div>
   )
 }

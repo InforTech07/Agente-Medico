@@ -179,9 +179,9 @@ export default function TestPage(){
         {renderBtn()}
       <div>
       </div>
-      <a className='btn-init'>
+      <li className='btn-init'>
         <NavLink to="/">Regresar</NavLink>
-      </a>
+      </li>
       </div>
   )
 }

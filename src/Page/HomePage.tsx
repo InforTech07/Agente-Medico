@@ -12,9 +12,9 @@ export default function HomePage() {
       <p>Para iniciar ingresa tu nombre</p>
       <input type="text" onChange={e => setName(e.target.value)}/>
       <br />
-      <a className='btn-init'>
+      <li className='btn-init'>
         <NavLink to={`/tests/${name}`}>Iniciar</NavLink>
-      </a>
+      </li>
     </div>
   )
 }
